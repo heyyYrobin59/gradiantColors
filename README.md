@@ -1,1 +1,2 @@
-# gradiantColors
+# gradiantColor
+Background Gradiant Color
